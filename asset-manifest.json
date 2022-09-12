@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-superhero-api/static/css/main.51bac021.css",
+    "main.js": "/desafio-lt-superhero-api/static/js/main.5739601c.js",
+    "index.html": "/desafio-lt-superhero-api/index.html",
+    "main.51bac021.css.map": "/desafio-lt-superhero-api/static/css/main.51bac021.css.map",
+    "main.5739601c.js.map": "/desafio-lt-superhero-api/static/js/main.5739601c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51bac021.css",
+    "static/js/main.5739601c.js"
+  ]
+}
